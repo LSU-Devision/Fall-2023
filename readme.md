@@ -8,7 +8,7 @@ Our team resumed this project with the objective of minimizing the data required
 ---
 
 
-# Research done by the Fall 2023 Devision Team
+# Research done by the Fall 2023 DeVision Team
 ## CEO
 Dr. Peter Wolenski
 
