@@ -14,6 +14,11 @@ Dr. Peter Wolenski
 
 wolenski@math.lsu.edu
 
+
+## Assistant Professor
+Dr. Nadejda Drenska
+
+ndrenska@lsu.edu
 ## Mathematics Graduate Students:
 
 
