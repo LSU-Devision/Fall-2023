@@ -6,29 +6,38 @@ Our team resumed this project with the objective of minimizing the data required
 
 ![Image 0](images/Heatmap.png)
 ![Image 0](images/prediction_test0.png)
----
-
 
 # Research done by the Fall 2023 DeVision Team
 ## CEO
-Dr. Peter Wolenski
-
-wolenski@math.lsu.edu
-
+Dr. Peter Wolenski wolenski@math.lsu.edu
 
 ## Assistant Professor
-Dr. Nadejda Drenska
+Dr. Nadejda Drenska ndrenska@lsu.edu
 
-ndrenska@lsu.edu
+## Graduate Team Managers:
+Iswarya Sitiraju, Gowri Priya Sunkara
+
 ## Mathematics Graduate Students:
 
-
-Ibrahem AlJabea, Christian Ennis, Monika Pandey, Iswarya Sitiraju, Gowri Priya Sunkara
+Ibrahem AlJabea, Christian Ennis, Monika Pandey
 
 ## Undergraduate Students:
 
-
 Finn Phayer, Skylar Wilson
+
+## AGGRC
+
+Director Terrance Tiersch
+
+Assistant Director Prof. Yue Liu
+
+Post Doc Dr. Jack Koch
+
+## The University of Chicago - Marine Biological Laboratory
+
+Research Assistant: Carl Anderson
+
+https://new-www.mbl.edu/
 <br>
 <br>
 
