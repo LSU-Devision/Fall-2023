@@ -24,8 +24,8 @@ X_filenames = sorted(glob("images/*.tif"))
 def parse_args():
     parser = argparse.ArgumentParser(description="Here is the help section for the optional commands.")
     parser.add_argument("--total_data", type=int, default=len(X_filenames), help="Sets the total amount of data. Default: total amount of images in the images folder.")
-    parser.add_argument("--dataset_size", type=int, default=int(.75*len(X_filenames)), 
-        help="Sets the size of the dataset to be used. Cannot be equal to total_data as there would be no testing data and the program will not work. Default: .75 of the total_data.")
+    parser.add_argument("--dataset_size", type=int, default=int(len(X_filenames) - 1), 
+        help="Sets the size of the dataset to be used. Cannot be equal to total_data as there would be no testing data and the program will not work. Default: one less than the total_data amount.")
     parser.add_argument("--rays", type=int, default=32, help="Sets the number of Rays. Default: 32.")
     parser.add_argument("--train_split", type=float, default=0.85, help="Sets the percent to split training/validation data. Default: .85.")
     parser.add_argument("--testing_size", type=int, default=1, help="Sets the number of testing images. Default: 1 to ensure the program works.")
